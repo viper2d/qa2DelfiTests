@@ -15,7 +15,7 @@ import java.awt.event.KeyEvent;
 import java.util.*;
 import java.util.List;
 
-// Additional: By article title, check WEB: name and comments; and the same on modile.
+// Additional: By article title, check WEB: name and comments; and the same on mobile.
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class DelfiArticleTest {
